@@ -8,9 +8,7 @@ GreenPulse is an IoT-based smart plant-care system that combines environmental s
 
 ##  About the Project
 
-Maintaining suitable growing conditions is important for healthy plant development. GreenPulse aims to make plant monitoring more accessible by integrating an ESP32-based device with cloud messaging, AI agents, and a centralized dashboard.
-
-The device collects environmental measurements and publishes sensor telemetry through MQTT. Backend components process relevant information, generate plant-care recommendations, and support weather-related notifications. The dashboard brings available sensor readings and system information together in one interface.
+Maintaining suitable growing conditions is important for healthy plant development. GreenPulse aims to make plant monitoring more accessible by integrating an ESP32-based device with cloud messaging, AI agents, and a centralized dashboard. The device collects environmental measurements and publishes sensor telemetry through MQTT. Backend components process relevant information, generate plant-care recommendations, and support weather-related notifications. The dashboard brings available sensor readings and system information together in one interface.
 
 ## ✨ Key Features
 
