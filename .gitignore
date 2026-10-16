@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*private.pem.key
+*certificate.pem.crt
+component2_agent_backup.py
+component2_agent_before_*.py
